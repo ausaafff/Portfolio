@@ -247,7 +247,7 @@ body {
   padding: 10px;
   background: #225838;
   color: white;
-  width: 94%;
+  width: 100%;
   bottom: 0;
 }
 
@@ -272,4 +272,13 @@ body {
   .project-image {
     opacity: 1; /* Remove hover effect on mobile */
   }
+}
+.pdf-link {
+  text-decoration: none;
+  color: black;
+}
+
+.pdf-link i.fas.fa-file-pdf {
+  text-decoration: none;
+  color: black;
 }
